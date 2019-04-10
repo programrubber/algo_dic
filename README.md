@@ -10,6 +10,7 @@
 ## 완전 탐색
  * [subset.cpp] ([부분집합 로직])
  * [2039_subset.cpp] ([일곱 난쟁이], 백준 2039)
+ * [순열]
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/bfs.cpp
 [2667_bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/2667_bfs.cpp
@@ -26,3 +27,4 @@
 [다리 만들기]: https://www.acmicpc.net/problem/2146
 [부분집합 로직]: http://www.algocoding.net/design/search/subset.html
 [일곱 난쟁이]: https://www.acmicpc.net/problem/2309
+[순열]: http://www.algocoding.net/design/search/permutation.html
