@@ -4,6 +4,7 @@
  * [bfs.cpp] ([BFS 기본 로직])
  * [2667_bfs.cpp] ([단지 번호 붙이기], 백준 2667)
  * [2178_bfs.cpp] ([미로 탐색], 백준 2178)
+ * [다리 만들기], 백준 2146
 ## DFS, 깊이 우선 
  * [dfs.cpp] ([DFS 기본 로직])
 
@@ -15,3 +16,4 @@
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
 [미로 탐색]: https://www.acmicpc.net/problem/2178
 [DFS 기본 로직]: http://www.algocoding.net/graph/traversal/DFS.html
+[다리 만들기]: https://www.acmicpc.net/problem/2146
