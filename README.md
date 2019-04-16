@@ -15,7 +15,7 @@
   ### 순열
    * [perm.cpp]([순열], 요소들을 순서대로 선택)
    * [perm_change.cpp]([순열], 두 요소의 교환으로 생성되는 순열)
-   * [10972.cpp] ([다음 순열], non-pass)
+   * [10972.cpp] ([다음 순열], 백준 10972, non-pass)
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/bfs.cpp
 [2667_bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/2667_bfs.cpp
