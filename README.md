@@ -15,6 +15,7 @@
   ### 순열
    * [perm.cpp]([순열], 요소들을 순서대로 선택)
    * [perm_change.cpp]([순열], 두 요소의 교환으로 생성되는 순열)
+   * [10972.cpp] ([다음 순열], non-pass)
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/bfs.cpp
 [2667_bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/2667_bfs.cpp
@@ -25,6 +26,7 @@
 [2039_subset.cpp]: https://github.com/programrubber/algo_dic/blob/master/2039_subset.cpp
 [perm.cpp]: https://github.com/programrubber/algo_dic/blob/master/perm.cpp
 [perm_change.cpp]: https://github.com/programrubber/algo_dic/blob/master/perm_change.cpp
+[10982.cpp]: https://github.com/programrubber/algo_dic/blob/master/10982.cpp
 
 [BFS 기본 로직]: http://www.algocoding.net/graph/traversal/BFS.html
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
@@ -34,3 +36,4 @@
 [부분집합 로직]: http://www.algocoding.net/design/search/subset.html
 [일곱 난쟁이]: https://www.acmicpc.net/problem/2309
 [순열]: http://www.algocoding.net/design/search/permutation.html
+[다음 순열]: https://www.acmicpc.net/problem/10972
