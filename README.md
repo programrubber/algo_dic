@@ -1,15 +1,18 @@
 알고리즘 스터디 with C++
 --------------
-## BFS, 너비 우선 탐색
+## 그래프
+### BFS, 너비 우선 탐색
  * [bfs.cpp] ([BFS 기본 로직])
  * [2667_bfs.cpp] ([단지 번호 붙이기], 백준 2667)
  * [2178_bfs.cpp] ([미로 탐색], 백준 2178)
  * [2146_bfs_dfs.cpp] ([다리 만들기], 백준 2146)
-## DFS, 깊이 우선 
+### DFS, 깊이 우선 
  * [dfs.cpp] ([DFS 기본 로직])
 ## 완전 탐색
+### 부분집합
  * [subset.cpp] ([부분집합 로직])
  * [2039_subset.cpp] ([일곱 난쟁이], 백준 2039)
+### 순열
  * [perm.cpp]([순열], 요소들을 순서대로 선택)
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/bfs.cpp
