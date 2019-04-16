@@ -24,6 +24,7 @@
 [subset.cpp]: https://github.com/programrubber/algo_dic/blob/master/subset.cpp
 [2039_subset.cpp]: https://github.com/programrubber/algo_dic/blob/master/2039_subset.cpp
 [perm.cpp]: https://github.com/programrubber/algo_dic/blob/master/perm.cpp
+[perm_change.cpp]: https://github.com/programrubber/algo_dic/blob/master/perm_change.cpp
 
 [BFS 기본 로직]: http://www.algocoding.net/graph/traversal/BFS.html
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
