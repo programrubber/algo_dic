@@ -10,7 +10,7 @@
 ## 완전 탐색
  * [subset.cpp] ([부분집합 로직])
  * [2039_subset.cpp] ([일곱 난쟁이], 백준 2039)
- * [순열]
+ * [perm.cpp]([순열], 요소들을 순서대로 선택)
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/bfs.cpp
 [2667_bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/2667_bfs.cpp
@@ -19,6 +19,7 @@
 [2146_bfs_dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/2146_bfs_dfs.cpp
 [subset.cpp]: https://github.com/programrubber/algo_dic/blob/master/subset.cpp
 [2039_subset.cpp]: https://github.com/programrubber/algo_dic/blob/master/2039_subset.cpp
+[perm.cpp]: https://github.com/programrubber/algo_dic/blob/master/perm.cpp
 
 [BFS 기본 로직]: http://www.algocoding.net/graph/traversal/BFS.html
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
