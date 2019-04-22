@@ -5,6 +5,7 @@
    * 전위 순회 (Pre-order, PLR)
    * 중위 순회 (In-order, LPR)
    * 후위 순회 (Post-order, LRP)
+   * [트리의 순회]
 ## 그래프
   ### BFS, 너비 우선 탐색
    * [bfs.cpp] ([BFS 기본 로직])
@@ -40,6 +41,7 @@
 [다리 만들기]: https://www.acmicpc.net/problem/2146
 [부분집합 로직]: http://www.algocoding.net/design/search/subset.html
 [일곱 난쟁이]: https://www.acmicpc.net/problem/2309
+[트리의 순회]: https://www.acmicpc.net/problem/2263
 [순열]: http://www.algocoding.net/design/search/permutation.html
 [다음 순열]: https://www.acmicpc.net/problem/10972
 [이진 트리 순회]: http://www.algocoding.net/tree/tree_traversal.html
