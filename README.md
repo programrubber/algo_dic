@@ -1,5 +1,10 @@
 알고리즘 스터디 with C++
 --------------
+## 트리
+  ### [이진 트리 순회]
+   * 전위 순회 (Pre-order, PLR)
+   * 중위 순회 (In-order, LPR)
+   * 후위 순회 (Post-order, LRP)
 ## 그래프
   ### BFS, 너비 우선 탐색
    * [bfs.cpp] ([BFS 기본 로직])
@@ -37,3 +42,4 @@
 [일곱 난쟁이]: https://www.acmicpc.net/problem/2309
 [순열]: http://www.algocoding.net/design/search/permutation.html
 [다음 순열]: https://www.acmicpc.net/problem/10972
+[이진 트리 순회]: http://www.algocoding.net/tree/tree_traversal.html
