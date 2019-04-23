@@ -15,6 +15,16 @@
           preOrder()
           preOrder()
         }
+        void inOrder() {
+          preOrder()
+          cout<<node
+          preOrder()
+        }
+        void postOrder() {
+          preOrder()
+          preOrder()
+          cout<<node
+        }
      ```
 ## 그래프
   ### BFS, 너비 우선 탐색
