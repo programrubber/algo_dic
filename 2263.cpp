@@ -23,6 +23,7 @@ void injectOrder(int inS, int inE, int postS, int postE) {
       rightCnt++;
     }
   }
+  // 전위 순회 (pre-ordering)
   cout<<v<<" ";
   if (leftCnt>0) {
     injectOrder(inS, vIndex-1, postS, postS+leftCnt-1);
