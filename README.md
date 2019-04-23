@@ -9,6 +9,13 @@
      * 전위(PLR), 중위(LPR), 후위(LRP)
      * 중위, 후위를 이용하여 전위를 구하는 문제
      * 후위의 마지막 값이 parent 값이며, parent값을 중위에서 찾아 L, R의 범위를 찾는 것을 반복
+     <code>
+        function preOrder() {
+          console.log()
+          preOrder()
+          preOrder()
+        }
+     </code>
 ## 그래프
   ### BFS, 너비 우선 탐색
    * [bfs.cpp] ([BFS 기본 로직])
