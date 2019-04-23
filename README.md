@@ -5,7 +5,7 @@
    * 전위 순회 (Pre-order, PLR)
    * 중위 순회 (In-order, LPR)
    * 후위 순회 (Post-order, LRP)
-   * [트리의 순회], 백준 2263
+   * [2263.cpp] ([트리의 순회], 백준 2263)
 ## 그래프
   ### BFS, 너비 우선 탐색
    * [bfs.cpp] ([BFS 기본 로직])
@@ -33,6 +33,7 @@
 [perm.cpp]: https://github.com/programrubber/algo_dic/blob/master/perm.cpp
 [perm_change.cpp]: https://github.com/programrubber/algo_dic/blob/master/perm_change.cpp
 [10972.cpp]: https://github.com/programrubber/algo_dic/blob/master/10972.cpp
+[2263.cpp]: https://github.com/programrubber/algo_dic/blob/master/2263.cpp
 
 [BFS 기본 로직]: http://www.algocoding.net/graph/traversal/BFS.html
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
