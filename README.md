@@ -5,6 +5,8 @@
    * 전위 순회 (Pre-order, PLR)
    * 중위 순회 (In-order, LPR)
    * 후위 순회 (Post-order, LRP)
+   * [1991.cpp] ([트리 순회], 백준 1991)
+     * 주어진 Tree의 전위, 중위, 후위 순회 탐색
    * [2263.cpp] ([트리의 순회], 백준 2263)
      * 전위(PLR), 중위(LPR), 후위(LRP)
      * 중위, 후위를 이용하여 전위를 구하는 문제
@@ -54,6 +56,7 @@
 [perm_change.cpp]: https://github.com/programrubber/algo_dic/blob/master/perm_change.cpp
 [10972.cpp]: https://github.com/programrubber/algo_dic/blob/master/10972.cpp
 [2263.cpp]: https://github.com/programrubber/algo_dic/blob/master/2263.cpp
+[1991.cpp]: https://github.com/programrubber/algo_dic/blob/master/1991.cpp
 
 [BFS 기본 로직]: http://www.algocoding.net/graph/traversal/BFS.html
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
@@ -66,3 +69,4 @@
 [순열]: http://www.algocoding.net/design/search/permutation.html
 [다음 순열]: https://www.acmicpc.net/problem/10972
 [이진 트리 순회]: http://www.algocoding.net/tree/tree_traversal.html
+[트리 순회]: https://www.acmicpc.net/problem/1991
