@@ -44,18 +44,19 @@
    * [perm_change.cpp]([순열], 두 요소의 교환으로 생성되는 순열)
    * [10972.cpp] ([다음 순열], 백준 10972, non-pass)
 
-[bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/bfs.cpp
-[2667_bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/2667_bfs.cpp
-[2178_bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/2178_bfs.cpp
-[dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/dfs.cpp
-[2146_bfs_dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/2146_bfs_dfs.cpp
-[subset.cpp]: https://github.com/programrubber/algo_dic/blob/master/subset.cpp
-[2039_subset.cpp]: https://github.com/programrubber/algo_dic/blob/master/2039_subset.cpp
-[perm.cpp]: https://github.com/programrubber/algo_dic/blob/master/perm.cpp
-[perm_change.cpp]: https://github.com/programrubber/algo_dic/blob/master/perm_change.cpp
-[10972.cpp]: https://github.com/programrubber/algo_dic/blob/master/10972.cpp
-[2263.cpp]: https://github.com/programrubber/algo_dic/blob/master/2263.cpp
-[1991.cpp]: https://github.com/programrubber/algo_dic/blob/master/1991.cpp
+[bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/bfs.cpp
+[dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/dfs.cpp
+[subset.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/subset.cpp
+[perm.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/perm.cpp
+[perm_change.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/perm_change.cpp
+
+[2667_bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2667_bfs.cpp
+[2178_bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2178_bfs.cpp
+[2146_bfs_dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2146_bfs_dfs.cpp
+[2039_subset.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2039_subset.cpp
+[10972.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/10972.cpp
+[2263.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2263.cpp
+[1991.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/1991.cpp
 
 [BFS 기본 로직]: http://www.algocoding.net/graph/traversal/BFS.html
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
