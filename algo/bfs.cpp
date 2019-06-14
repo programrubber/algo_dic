@@ -7,7 +7,7 @@ int V, E;
 int visited[SIZE]; // 방문 정보
 int G[SIZE][SIZE];  // 인접 행렬
 int D[SIZE],P[SIZE]; //D: 시작점에서 정점까지 거리,P: 최단 경로
-int Q[SIZE], front, rear; //큐
+
 class Edge {
 public:
   int from, to;
