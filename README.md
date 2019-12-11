@@ -27,7 +27,7 @@
           cout<<node
         }
      ```
-## 그래프
+## 그래프 [(참고)]
   ### BFS, 너비 우선 탐색
    * [bfs.cpp] ([BFS 기본 로직])
    * [2667_bfs.cpp] ([단지 번호 붙이기], 백준 2667)
@@ -70,3 +70,5 @@
 [다음 순열]: https://www.acmicpc.net/problem/10972
 [이진 트리 순회]: http://www.algocoding.net/tree/tree_traversal.html
 [트리 순회]: https://www.acmicpc.net/problem/1991
+
+[(참고)]: https://github.com/WeareSoft/algorithm-study/blob/master/contents/180715.md
