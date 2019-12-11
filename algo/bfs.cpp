@@ -45,7 +45,7 @@ int main() {
   // Test Case 1
   Edge edges[10] = {{1,2},{1,3},{2,4},{2,5},{3,6},
     {5,6},{4,7},{5,7},{6,8},{7,8}};
-  int edgesSize = sizeof(edges) / sizeof(*edges);
+  int edgesSize = sizeof(edges) / sizeof(edges[0]);
 
   V = 8, E = 10; // 정점 수 , 간선 수 세팅
   for(int i=0; i<edgesSize; i++) {
