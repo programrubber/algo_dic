@@ -1,7 +1,11 @@
 알고리즘 스터디 with C++
 --------------
-##  기본 알고리즘
+## C++
+  * [C++ STL 정리]
+
+## 기본 알고리즘
   - [최대공약수, 최소공배수]
+
 ## 트리
   ### [이진 트리 순회]
    * 전위 순회 (Pre-order, PLR)
@@ -74,5 +78,6 @@
 [트리 순회]: https://www.acmicpc.net/problem/1991
 
 [최대공약수, 최소공배수]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_gcd_lcm.md
+[C++ STL 정리]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_cpp_stl.md
 
 [(참고)]: https://github.com/WeareSoft/algorithm-study/blob/master/contents/180715.md
