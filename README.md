@@ -1,5 +1,7 @@
 알고리즘 스터디 with C++
 --------------
+  [백준 스터디 링크]
+
 ## C++
   * [C++ STL 정리]
 
@@ -81,3 +83,4 @@
 [C++ STL 정리]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_cpp_stl.md
 
 [(참고)]: https://github.com/WeareSoft/algorithm-study/blob/master/contents/180715.md
+[백준 스터디 링크]: https://www.acmicpc.net/workbook/top
