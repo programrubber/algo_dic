@@ -47,6 +47,21 @@
   ### 부분집합
    * [subset.cpp] ([부분집합 로직])
    * [2039_subset.cpp] ([일곱 난쟁이], 백준 2039)
+   ```cpp
+    int bits[SIZE];
+
+    subset (int start, int end) {
+      if (start == end) {
+        for (int i=0; i<end; i++) {
+          if (bits[i]) {
+            // print
+          }
+        }
+      }
+      bits[i]=0; subset(start+1, end);
+      bits[i]=1; subset(start+1, end);
+    }
+   ```
   ### 순열
    * [perm.cpp]([순열], 요소들을 순서대로 선택)
    * [perm_change.cpp]([순열], 두 요소의 교환으로 생성되는 순열)
