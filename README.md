@@ -50,7 +50,7 @@
    ```cpp
     int bits[SIZE];
 
-    subset (int start, int end) {
+    void subset (int start, int end) {
       if (start == end) {
         for (int i=0; i<end; i++) {
           if (bits[i]) {
