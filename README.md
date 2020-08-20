@@ -66,6 +66,24 @@
    * [perm.cpp]([순열], 요소들을 순서대로 선택)
    * [perm_change.cpp]([순열], 두 요소의 교환으로 생성되는 순열)
    * [10972.cpp] ([다음 순열], 백준 10972, non-pass)
+   ```cpp
+    vector <int> vec;
+    int N;
+
+    int perm(int start, int end) {
+        if (start == end) {
+            for (int i = 0; i < N; i++) {
+                cout << vec.at(i) << " ";
+            }
+            cout << endl;
+        }
+        for (int i = start; i <= end; i++) {
+            swap(vec[start], vec[i]);
+            perm(start+1, end);
+            swap(vec[start], vec[i]);
+        }
+    }
+   ```
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/bfs.cpp
 [dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/dfs.cpp
