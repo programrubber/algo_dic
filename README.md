@@ -20,19 +20,19 @@
      * 후위의 마지막 값이 parent 값이며, parent값을 중위에서 찾아 L, R의 범위를 찾는 것을 반복
      ```cpp
         void preOrder() {
-          cout<<node
-          preOrder()
-          preOrder()
+          cout<<parent
+          preOrder(left)
+          preOrder(right)
         }
         void inOrder() {
-          preOrder()
-          cout<<node
-          preOrder()
+          preOrder(left)
+          cout<<parent
+          preOrder(right)
         }
         void postOrder() {
-          preOrder()
-          preOrder()
-          cout<<node
+          preOrder(left)
+          preOrder(right)
+          cout<<parent
         }
      ```
 ## 그래프 [(참고)]
