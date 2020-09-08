@@ -108,6 +108,43 @@
     }
     perm(0,N);
    ```
+ ### 조합 (Combination)
+ ```cpp
+  #include <iostream>
+  using namespace std;
+
+  int N, K; // N: 집합 원소의 갯수, K: 선택할 원소의 갯수
+  int arr[6];
+  int choise[6];
+  int cnt;
+
+  void comb(int number, int idx) {
+      if (idx > K) {
+          for (int i=1; i<=K; i++) {
+              cout << choise[i];
+          }
+          cout << endl;
+          return;
+      }
+      if (number > N) {
+          return;
+      }
+      choise[idx] = arr[number];
+      comb(number+1, idx+1);
+      comb(number+1, idx);
+      // 중복 조합
+      // comb(number, idx+1);
+      // comb(number+1, idx);
+  }
+
+  int main() {
+      cin >> N >> K;
+      for (int i=1; i<= N; i++) {
+          cin >> arr[i];
+      }
+      comb(1, 1);
+  }
+ ```
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/bfs.cpp
 [dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/dfs.cpp
