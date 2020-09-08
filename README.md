@@ -109,42 +109,46 @@
     perm(0,N);
    ```
  ### 조합 (Combination)
- ```cpp
-  #include <iostream>
-  using namespace std;
+   * 서로 다른 n개의 원소에서 순서에 상관없이 r개를 뽑을때, n개에서 r개를 택하는 조합
+   * ex) aaaabb를 일렬로 나열하는 방법은? 20가지 (5C3) -> 순열로 생각하고 같은것들의 순서를 제거하면 됨
+   * ex) (1,2,3,4,5)중 3개를 선택하는 방법은?
+     (1,2,3), (1,2,4), (1,2,5), (1,3,4), (1,3,5), (1,4,5), (2,3,4), (2,3,5), (2,4,5), (3,4,5) 총 10가지
+   ```cpp
+    #include <iostream>
+    using namespace std;
 
-  int N, K; // N: 집합 원소의 갯수, K: 선택할 원소의 갯수
-  int arr[6];
-  int choise[6];
-  int cnt;
+    int N, K; // N: 집합 원소의 갯수, K: 선택할 원소의 갯수
+    int arr[6];
+    int choise[6];
+    int cnt;
 
-  void comb(int number, int idx) {
-      if (idx > K) {
-          for (int i=1; i<=K; i++) {
-              cout << choise[i];
-          }
-          cout << endl;
-          return;
-      }
-      if (number > N) {
-          return;
-      }
-      choise[idx] = arr[number];
-      comb(number+1, idx+1);
-      comb(number+1, idx);
-      // 중복 조합
-      // comb(number, idx+1);
-      // comb(number+1, idx);
-  }
+    void comb(int number, int idx) {
+        if (idx > K) {
+            for (int i=1; i<=K; i++) {
+                cout << choise[i];
+            }
+            cout << endl;
+            return;
+        }
+        if (number > N) {
+            return;
+        }
+        choise[idx] = arr[number];
+        comb(number+1, idx+1);
+        comb(number+1, idx);
+        // 중복 조합
+        // comb(number, idx+1);
+        // comb(number+1, idx);
+    }
 
-  int main() {
-      cin >> N >> K;
-      for (int i=1; i<= N; i++) {
-          cin >> arr[i];
-      }
-      comb(1, 1);
-  }
- ```
+    int main() {
+        cin >> N >> K;
+        for (int i=1; i<= N; i++) {
+            cin >> arr[i];
+        }
+        comb(1, 1);
+    }
+   ```
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/bfs.cpp
 [dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/dfs.cpp
