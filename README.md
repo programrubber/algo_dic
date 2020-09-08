@@ -78,12 +78,13 @@
             }
             cout << endl;
         }
-        for (int i = start; i <= end; i++) {
+        for (int i = start; i < end; i++) {
             swap(vec[start], vec[i]);
             perm(start+1, end);
             swap(vec[start], vec[i]);
         }
     }
+    perm(0,N);
    ```
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/bfs.cpp
