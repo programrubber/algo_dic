@@ -113,6 +113,7 @@
    * ex) aaaabb를 일렬로 나열하는 방법은? 20가지 (5C3) -> 순열로 생각하고 같은것들의 순서를 제거하면 됨
    * ex) (1,2,3,4,5)중 3개를 선택하는 방법은?
      (1,2,3), (1,2,4), (1,2,5), (1,3,4), (1,3,5), (1,4,5), (2,3,4), (2,3,5), (2,4,5), (3,4,5) 총 10가지
+   * [2309_combination.cpp] ([일곱 난쟁이], 백준 2039) 
    ```cpp
     #include <iostream>
     using namespace std;
@@ -163,6 +164,7 @@
 [10972.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/10972.cpp
 [2263.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2263.cpp
 [1991.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/1991.cpp
+[2309_combination.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2039_combination.cpp
 
 [BFS 기본 로직]: http://www.algocoding.net/graph/traversal/BFS.html
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
