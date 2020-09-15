@@ -1,6 +1,7 @@
 알고리즘 스터디 with C++
 --------------
   [백준 스터디 링크]
+  [백준 브루트 포스 문제]
 
 ## C++
   * [C++ STL 정리]
@@ -184,3 +185,4 @@
 
 [(참고)]: https://github.com/WeareSoft/algorithm-study/blob/master/contents/180715.md
 [백준 스터디 링크]: https://www.acmicpc.net/workbook/top
+[백준 브루트 포스 문제]: https://www.acmicpc.net/step/22
