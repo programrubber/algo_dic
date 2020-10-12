@@ -177,7 +177,7 @@
 [트리의 순회]: https://www.acmicpc.net/problem/2263
 [순열]: http://www.algocoding.net/design/search/permutation.html
 [다음 순열]: https://www.acmicpc.net/problem/10972
-[이진 트리 순회]: http://www.algocoding.net/tree/tree_traversal.html
+[이진 트리 순회]: https://github.com/programrubber/algo_dic/blob/master/algo/binary_tree.cpp
 [트리 순회]: https://www.acmicpc.net/problem/1991
 
 [최대공약수, 최소공배수]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_gcd_lcm.md
