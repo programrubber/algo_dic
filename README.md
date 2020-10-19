@@ -88,8 +88,8 @@
         }
         return
       }
-      bits[i]=0; subset(start+1, end);
-      bits[i]=1; subset(start+1, end);
+      bits[start]=0; subset(start+1, end);
+      bits[start]=1; subset(start+1, end);
     }
    ```
   ### 순열
