@@ -189,7 +189,7 @@
 [다음 순열]: https://www.acmicpc.net/problem/10972
 [이진 트리 순회]: https://github.com/programrubber/algo_dic/blob/master/algo/binary_tree.cpp
 [트리 순회]: https://www.acmicpc.net/problem/1991
-[블랙잭]: https://www.acmicpc.net/submit/2798
+[블랙잭]: https://www.acmicpc.net/problem/2798
 [분해합]: https://www.acmicpc.net/problem/2231
 
 [최대공약수, 최소공배수]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_gcd_lcm.md
