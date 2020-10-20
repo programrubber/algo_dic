@@ -63,6 +63,7 @@
   * 구현
     - 반복적 구조: 중첩된 반복문
     - 재귀적 구조: 재귀 호출을 통한 구현
+  * [2231_descomposition] ([분해합], 백준 2231)
   ### 부분집합
    * 비트 연산을 통해 부분집합을 생성 [ex) {A,B,C} 부분 집합 표현 방법]
      - {},      2진수: 000, 10진수: 0
@@ -120,7 +121,8 @@
    * ex) aaaabb를 일렬로 나열하는 방법은? 20가지 (5C3) -> 순열로 생각하고 같은것들의 순서를 제거하면 됨
    * ex) (1,2,3,4,5)중 3개를 선택하는 방법은?
      (1,2,3), (1,2,4), (1,2,5), (1,3,4), (1,3,5), (1,4,5), (2,3,4), (2,3,5), (2,4,5), (3,4,5) 총 10가지
-   * [2309_combination.cpp] ([일곱 난쟁이], 백준 2039) 
+   * [2309_combination.cpp] ([일곱 난쟁이], 백준 2039)
+   * [2798_blackjack.cpp] ([블랙잭], 백준 2798)
    ```cpp
     #include <iostream>
     using namespace std;
@@ -172,6 +174,8 @@
 [2263.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2263.cpp
 [1991.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/1991.cpp
 [2309_combination.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2039_combination.cpp
+[2798_blackjack.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2798_blackjack.cpp
+[2231_descomposition]: https://github.com/programrubber/algo_dic/blob/master/src/2231_descomposition
 
 [BFS 기본 로직]: http://www.algocoding.net/graph/traversal/BFS.html
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
@@ -185,6 +189,8 @@
 [다음 순열]: https://www.acmicpc.net/problem/10972
 [이진 트리 순회]: https://github.com/programrubber/algo_dic/blob/master/algo/binary_tree.cpp
 [트리 순회]: https://www.acmicpc.net/problem/1991
+[블랙잭]: https://www.acmicpc.net/submit/2798
+[분해합]: https://www.acmicpc.net/problem/2231
 
 [최대공약수, 최소공배수]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_gcd_lcm.md
 [C++ STL 정리]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_cpp_stl.md
