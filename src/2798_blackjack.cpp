@@ -1,3 +1,4 @@
+// https://www.acmicpc.net/submit/2798 왜 인지 모르겠지만 런타임 오류가 발생하고 있음...
 #include "iostream"
 #define CARDSIZE 101
 
