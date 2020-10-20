@@ -123,6 +123,7 @@
      (1,2,3), (1,2,4), (1,2,5), (1,3,4), (1,3,5), (1,4,5), (2,3,4), (2,3,5), (2,4,5), (3,4,5) 총 10가지
    * [2309_combination.cpp] ([일곱 난쟁이], 백준 2039)
    * [2798_blackjack.cpp] ([블랙잭], 백준 2798)
+   * [7568_dungchi.cpp] ([덩치], 백준 7568)
    ```cpp
     #include <iostream>
     using namespace std;
@@ -176,6 +177,7 @@
 [2309_combination.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2039_combination.cpp
 [2798_blackjack.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2798_blackjack.cpp
 [2231_descomposition]: https://github.com/programrubber/algo_dic/blob/master/src/2231_descomposition
+[7568_dungchi.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/7568_dungchi.cpp
 
 [BFS 기본 로직]: http://www.algocoding.net/graph/traversal/BFS.html
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
@@ -191,6 +193,7 @@
 [트리 순회]: https://www.acmicpc.net/problem/1991
 [블랙잭]: https://www.acmicpc.net/problem/2798
 [분해합]: https://www.acmicpc.net/problem/2231
+[덩치]: https://www.acmicpc.net/problem/7568
 
 [최대공약수, 최소공배수]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_gcd_lcm.md
 [C++ STL 정리]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_cpp_stl.md
