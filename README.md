@@ -64,6 +64,7 @@
     - 반복적 구조: 중첩된 반복문
     - 재귀적 구조: 재귀 호출을 통한 구현
   * [2231_descomposition] ([분해합], 백준 2231)
+  * [1018.cpp] ([체스판 다시 칠하기], 백준 1018)
   ### 부분집합
    * 비트 연산을 통해 부분집합을 생성 [ex) {A,B,C} 부분 집합 표현 방법]
      - {},      2진수: 000, 10진수: 0
@@ -178,6 +179,7 @@
 [2798_blackjack.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/2798_blackjack.cpp
 [2231_descomposition]: https://github.com/programrubber/algo_dic/blob/master/src/2231_descomposition
 [7568_dungchi.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/7568_dungchi.cpp
+[1018.cpp]: https://github.com/programrubber/algo_dic/blob/master/src/1018.cpp
 
 [BFS 기본 로직]: http://www.algocoding.net/graph/traversal/BFS.html
 [단지 번호 붙이기]: https://www.acmicpc.net/problem/2667
@@ -194,6 +196,7 @@
 [블랙잭]: https://www.acmicpc.net/problem/2798
 [분해합]: https://www.acmicpc.net/problem/2231
 [덩치]: https://www.acmicpc.net/problem/7568
+[체스판 다시 칠하기]: https://www.acmicpc.net/problem/1018
 
 [최대공약수, 최소공배수]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_gcd_lcm.md
 [C++ STL 정리]: https://github.com/programrubber/algo_dic/blob/master/doc/200804_cpp_stl.md
