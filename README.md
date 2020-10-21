@@ -161,6 +161,8 @@
         comb(1, 1);
     }
    ```
+ ### Samsung SW 문제
+  * [1206. View] -> https://github.com/programrubber/algo_dic/blob/master/samsung_sw/1206.cpp
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/bfs.cpp
 [dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/dfs.cpp
@@ -204,3 +206,5 @@
 [(참고)]: https://github.com/WeareSoft/algorithm-study/blob/master/contents/180715.md
 [백준 스터디 링크]: https://www.acmicpc.net/workbook/top
 [백준 브루트 포스 문제]: https://www.acmicpc.net/step/22
+
+[1206. View]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE
