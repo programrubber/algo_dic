@@ -163,6 +163,7 @@
    ```
  ### Samsung SW 문제
   * [1206. View] -> https://github.com/programrubber/algo_dic/blob/master/samsung_sw/1206.cpp
+  * [1204. 최빈수 구하기] -> https://github.com/programrubber/algo_dic/blob/master/samsung_sw/1204.cpp
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/bfs.cpp
 [dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/dfs.cpp
@@ -208,3 +209,4 @@
 [백준 브루트 포스 문제]: https://www.acmicpc.net/step/22
 
 [1206. View]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE
+[1204. 최빈수 구하기]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE
