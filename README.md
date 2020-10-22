@@ -165,6 +165,8 @@
   * [1206. View] -> https://github.com/programrubber/algo_dic/blob/master/samsung_sw/1206.cpp
   * [1204. 최빈수 구하기] -> https://github.com/programrubber/algo_dic/blob/master/samsung_sw/1204.cpp
   * [1244. 최대 상금] -> https://github.com/programrubber/algo_dic/blob/master/samsung_sw/1244.cpp
+  * [2819. 격자판의 숫자 이어 붙이기]: -> https://github.com/programrubber/algo_dic/blob/master/samsung_sw/2819.cpp
+  * [3752. 가능한 시험 점수] -> https://github.com/programrubber/algo_dic/blob/master/samsung_sw/3752_subset.cpp
 
 [bfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/bfs.cpp
 [dfs.cpp]: https://github.com/programrubber/algo_dic/blob/master/algo/dfs.cpp
@@ -212,3 +214,5 @@
 [1206. View]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE
 [1204. 최빈수 구하기]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE
 [1244. 최대 상금]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE
+[3752. 가능한 시험 점수]: https://swexpertacademy.com/main/solvingProblem/solvingProblem.do
+[2819. 격자판의 숫자 이어 붙이기]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE
